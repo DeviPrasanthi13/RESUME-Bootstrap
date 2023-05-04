@@ -1,0 +1,61 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=      1,shrink-to-fit=no">
+    <title>My Resume</title>
+    <link rel="stylesheet"    href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  </head>
+  <body>
+    <div class="container">
+    <div class="prasanthi">
+     <div class="row">
+      <div class="col-md=8">
+      <h2 align="center"><u>RESUME</u></h2>
+       <h3>P.Devi Prasanthi</h3>
+       6304539575<br>
+       deviprasanthi9522@email.com<br>
+       Bendamurlanka,Allavaram mandal,Dr.BR Ambedhkar Konaseema  district.<br>
+       <h5 class="title">Career Objective</h5>
+       <p class="subtitle">To obtain a challenging position that fully utilizes my skills and provides me with suitable opportunities to grow my technical and communication skills which would help me as a fresher to grow while working towards the organizational goals. </p> 
+       <h3 class="title">Education</h3>
+       <ul>
+       <li>Pursuing B.Tech(4th year) in computer science stream from Adikavi  Nannaya University</li>
+       <li>Completed Diploma from Prasiddha college of Engineering and Technology in computer science stream in the year 2021</li>
+       <li>Completed SSC from ZPP high school,Odalarevu in the year 2018</li>
+       </ul>       
+       <h3 class="title">Certifications</h3>
+         <ul>
+            <li >Completed Python Course in Cursa. </li>
+            <li>Completed Cryptography and Network Security Course in NPTEL      Swayam.</li>
+            <li>Completed Cloud Computing Fundamentals in Great Learning. 
+            </li>              
+            <li>Completed Cyber Sercurity in Cursa.</li>
+            </ul>
+            <hr>
+            <h3>Skills</h3>
+            <p class="title"><u>Technical Languages like:-</u></p>
+          <ul>
+            <li>HTML/CSS</li>
+            <li>CSS</li>
+            <li>Python</li>
+            <li>JAVA Script</li>
+            <li>MySQL</li>
+          </ul>
+          <p class="title"><u>Areas of Strength </p></u>
+            <ul>
+            <li>Strong person.</li>
+            <li>Decision making.</li>
+            <li>Good at Communication skills</li>
+            </ul>
+           <h3 class="title">Archievements</h3>
+       <ul>
+       <li>Worked as an intern in TCR Innovations for 2 Months on Backend Web Developer. </li>
+       <li>Created a project on Library management by using languages like Python, HTML, CSS, Django, Java.</li>
+       </ul>
+        </div>
+       </div>
+     </div>
+    </div>
+</body>
+</html>
